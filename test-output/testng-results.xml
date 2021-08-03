@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="58034" started-at="2021-07-31T22:55:09 CAT" finished-at="2021-07-31T22:56:07 CAT">
+    <groups>
+    </groups>
+    <test name="GitHubTestProject" duration-ms="58034" started-at="2021-07-31T22:55:09 CAT" finished-at="2021-07-31T22:56:07 CAT">
+      <class name="functionaltest.LoginPageTests">
+        <test-method status="PASS" signature="initSetup()[pri:0, instance:functionaltest.LoginPageTests@14acaea5]" name="initSetup" is-config="true" duration-ms="34822" started-at="2021-07-31T22:55:09 CAT" finished-at="2021-07-31T22:55:44 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initSetup -->
+        <test-method status="PASS" signature="validateEmailFieldTest()[pri:0, instance:functionaltest.LoginPageTests@14acaea5]" name="validateEmailFieldTest" duration-ms="9974" started-at="2021-07-31T22:55:44 CAT" finished-at="2021-07-31T22:55:54 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateEmailFieldTest -->
+        <test-method status="PASS" signature="validatePasswordFieldTest()[pri:1, instance:functionaltest.LoginPageTests@14acaea5]" name="validatePasswordFieldTest" duration-ms="1271" started-at="2021-07-31T22:55:54 CAT" finished-at="2021-07-31T22:55:55 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePasswordFieldTest -->
+        <test-method status="PASS" signature="validateSubmitButtonFieldTest()[pri:2, instance:functionaltest.LoginPageTests@14acaea5]" name="validateSubmitButtonFieldTest" duration-ms="289" started-at="2021-07-31T22:55:55 CAT" finished-at="2021-07-31T22:55:56 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSubmitButtonFieldTest -->
+        <test-method status="PASS" signature="performLoginTests()[pri:3, instance:functionaltest.LoginPageTests@14acaea5]" name="performLoginTests" duration-ms="8435" started-at="2021-07-31T22:55:56 CAT" finished-at="2021-07-31T22:56:04 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performLoginTests -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:functionaltest.LoginPageTests@14acaea5]" name="tearDown" is-config="true" duration-ms="3066" started-at="2021-07-31T22:56:04 CAT" finished-at="2021-07-31T22:56:07 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- functionaltest.LoginPageTests -->
+    </test> <!-- GitHubTestProject -->
+  </suite> <!-- Default Suite -->
+</testng-results>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="109323" started-at="2021-08-01T16:54:18 CAT" finished-at="2021-08-01T16:56:07 CAT">
+    <groups>
+    </groups>
+    <test name="GitHubTestProject" duration-ms="109323" started-at="2021-08-01T16:54:18 CAT" finished-at="2021-08-01T16:56:07 CAT">
+      <class name="functionaltest.LoginPageTests">
+        <test-method status="PASS" signature="initSetup()[pri:0, instance:functionaltest.LoginPageTests@271053e1]" name="initSetup" is-config="true" duration-ms="35076" started-at="2021-08-01T16:54:18 CAT" finished-at="2021-08-01T16:54:53 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initSetup -->
+        <test-method status="PASS" signature="validateEmailFieldTest()[pri:0, instance:functionaltest.LoginPageTests@271053e1]" name="validateEmailFieldTest" duration-ms="11893" started-at="2021-08-01T16:54:53 CAT" finished-at="2021-08-01T16:55:05 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateEmailFieldTest -->
+        <test-method status="PASS" signature="validatePasswordFieldTest()[pri:1, instance:functionaltest.LoginPageTests@271053e1]" name="validatePasswordFieldTest" duration-ms="81" started-at="2021-08-01T16:55:05 CAT" finished-at="2021-08-01T16:55:05 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePasswordFieldTest -->
+        <test-method status="PASS" signature="validateSubmitButtonFieldTest()[pri:2, instance:functionaltest.LoginPageTests@271053e1]" name="validateSubmitButtonFieldTest" duration-ms="77" started-at="2021-08-01T16:55:05 CAT" finished-at="2021-08-01T16:55:05 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSubmitButtonFieldTest -->
+        <test-method status="PASS" signature="performLoginTests()[pri:3, instance:functionaltest.LoginPageTests@271053e1]" name="performLoginTests" duration-ms="4667" started-at="2021-08-01T16:55:05 CAT" finished-at="2021-08-01T16:55:10 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performLoginTests -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:functionaltest.LoginPageTests@271053e1]" name="tearDown" is-config="true" duration-ms="1113" started-at="2021-08-01T16:55:10 CAT" finished-at="2021-08-01T16:55:11 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- functionaltest.LoginPageTests -->
+      <class name="functionaltest.HeaderPageTests">
+        <test-method status="PASS" signature="initSetup()[pri:0, instance:functionaltest.HeaderPageTests@589838eb]" name="initSetup" is-config="true" duration-ms="31291" started-at="2021-08-01T16:55:11 CAT" finished-at="2021-08-01T16:55:42 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initSetup -->
+        <test-method status="PASS" signature="performLoginTests()[pri:0, instance:functionaltest.HeaderPageTests@589838eb]" name="performLoginTests" is-config="true" duration-ms="21707" started-at="2021-08-01T16:55:42 CAT" finished-at="2021-08-01T16:56:04 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performLoginTests -->
+        <test-method status="PASS" signature="validateMenuIcons()[pri:0, instance:functionaltest.HeaderPageTests@589838eb]" name="validateMenuIcons" duration-ms="576" started-at="2021-08-01T16:56:04 CAT" finished-at="2021-08-01T16:56:04 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMenuIcons -->
+        <test-method status="PASS" signature="validateheaderText()[pri:0, instance:functionaltest.HeaderPageTests@589838eb]" name="validateheaderText" duration-ms="309" started-at="2021-08-01T16:56:04 CAT" finished-at="2021-08-01T16:56:05 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateheaderText -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:functionaltest.HeaderPageTests@589838eb]" name="tearDown" is-config="true" duration-ms="2476" started-at="2021-08-01T16:56:05 CAT" finished-at="2021-08-01T16:56:07 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- functionaltest.HeaderPageTests -->
+    </test> <!-- GitHubTestProject -->
+  </suite> <!-- Default Suite -->
+</testng-results>
